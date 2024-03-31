@@ -78,8 +78,3 @@ Regression Analysis, Statistical Inference, Time-Series Analysis, Statistical Si
 > **Mathematics**  
 Real Analysis, Linear Algebra, Multivariable Calculus, Numerical Analysis, Complex Variables, Introduction to Graph Theory, Measure theory.
 
-> **Probability and Applications**  
-Probability Theory, Applied Stochastic Process.
-
-> **Others**  
-Computer Programming and Data Structures.
