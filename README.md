@@ -63,8 +63,8 @@ _With Prof Shripad Garge, Department of Mathematics, IIT Bombay_
 
 ## Achievements
 
-> **Databricks LLM Cup - 1st prize** `2023`  
-_Organized by by Databricks Bangalore (Teams of 4)_  
+> **Databricks LLM Cup - 1st prize (Team of 4)** `2023`  
+_Organized by by Databricks Bangalore_  
 > **[Certificate](https://github.com/keyurpethad/keyurpethad/blob/main/Keyur_DatabricksLLM.png)**
 
 ## Academic Courses
