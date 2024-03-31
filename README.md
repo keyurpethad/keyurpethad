@@ -54,7 +54,7 @@
 ## Summer/Winter Schools
 
 > **Summer School on Graph Theory and Algorithms** `2023`   
-_Organized by Electronics and Communication Sciences Unit, NIT Calicut_   
+_Organized by Department of Computer Science, NIT Calicut_   
 **https://india.acm.org/education/graph-theory**
 
 
@@ -65,7 +65,7 @@ _With Prof Shripad Garge, Department of Mathematics, IIT Bombay_
 
 > **Databricks LLM Cup - 1st prize** `2023`  
 _Organized by by Databricks Bangalore (Teams of 4)_  
-> - Certificate: **TBA**
+> **[Certificate](https://github.com/keyurpethad/keyurpethad/blob/main/Keyur_DatabricksLLM.png)**
 
 ## Academic Courses
 
