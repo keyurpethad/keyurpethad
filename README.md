@@ -4,13 +4,10 @@
 
 [<img align="left" alt="Keyur Pethad | Linkedin" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" />][linkedin]
 
-[<img align="left" alt="Keyur Pethad | GitHub" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][github]
-
 [<img align="left" alt="Keyur Pethad | Kaggle" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][kaggle]
 
 [gmail]: mailto:keyurpethad1996@gmail.com
 [linkedin]: https://www.linkedin.com/in/keyur-p-07493913b/
-[github]: https://github.com/keyurpethad
 [kaggle]: https://www.kaggle.com/keypet1706
 
 <br/><br/>
