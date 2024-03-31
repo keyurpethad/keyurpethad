@@ -41,7 +41,7 @@
 > _Quant Analyst_
 
 > **Intel** `May'17-Jul'17`  
-> _Data Analyst
+> _Data Analyst_
 
 > **Petrabytes** `Nov'16-Jan'17`  
 > _Data Scientist_
@@ -54,7 +54,7 @@
 
 > Statistical Software: `Minitab`
 
-## Seminars, Workshops, and Summer/Winter Schools
+## Summer/Winter Schools
 
 > **Summer School on Graph Theory and Algorithms** `2023`   
 _Organized by Electronics and Communication Sciences Unit, NIT Calicut_   
