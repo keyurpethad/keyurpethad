@@ -69,9 +69,9 @@ _Organized by by Databricks Bangalore_
 
 ## Academic Courses
 
-> **Statistics**  
-Regression Analysis, Statistical Inference, Time-Series Analysis, Statistical Simulation and Data Analysis, Probabilistic Theory of Pattern Recognition, Multivariate Analysis, Analysis of Variance, Robust Statistical Methods, Nonparametric Inference, Non-linear Regression, Large Sample Theory, Sampling Theory, Matrix Theory and Linear Estimation, Design of Experiments, Statistical Quality Control, Distributions Theory in Statistics, Population Statistics, Economic Statistics.
-
 > **Mathematics**  
-Real Analysis, Linear Algebra, Multivariable Calculus, Numerical Analysis, Complex Variables, Introduction to Graph Theory, Measure theory.
+Real and Complex Analysis, Linear Algebra, Multivariable Calculus, Number Theory, Graph Theory, Measure theory, Stochastic Processes, Markov Chains.
+
+> **Statistics**  
+Regression Analysis, Statistical Inference, Time-Series Analysis, Multivariate Analysis, Analysis of Variance.
 
