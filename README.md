@@ -44,12 +44,12 @@
 > _Data Scientist_
 
 ## Skills
-
-> Languages: `Python`, `SQL`, `R`, `MATLAB`, `JAVA` 
-
-> Tools: `LaTeX`, `Jupyter Notebook`
-
-> Statistical Software: `Minitab`
+> Languages: `Python`, `SQL`, `R`, `MATLAB`, `JAVA`, `NoSQL`     
+> Tools: `LaTeX`, `Jupyter Notebook`, `Dash`, `Tableau`, `Snowflake`   
+> DBMS: `Snowflake`, `HIVE`, `OracleODBC`, `Denodo`, `Teradata`, `MongoDb`, `MySQL`,  `PostgreSQL`    
+> Statistical Software: `Minitab`   
+> OS: `Ubuntu/Linux`, `MacOS`, `Windows`   
+> version control: `Github`, `Gitlab`   
 
 ## Summer/Winter Schools
 
@@ -70,8 +70,11 @@ _Organized by by Databricks Bangalore_
 ## Academic Courses
 
 > **Mathematics**  
-Real and Complex Analysis, Linear Algebra, Multivariable Calculus, Number Theory, Graph Theory, Measure theory, Stochastic Processes, Markov Chains.
+Real and Complex Analysis, Linear Algebra, Abstract Algebra, Multivariable Calculus, Number Theory, Graph Theory, Measure theory, Stochastic Processes, Markov Chains.
 
 > **Statistics**  
-Regression Analysis, Statistical Inference, Time-Series Analysis, Multivariate Analysis, Analysis of Variance.
+Regression Analysis, Statistical Inference, Time-Series Analysis, Multivariate Analysis, Analysis of Variance, Statistical learning Theory (ML).
+
+> **Computers** 
+Algorithms, C++, JAVA, R, Automata theory, MATLAB
 
