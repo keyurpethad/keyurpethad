@@ -75,6 +75,6 @@ Real and Complex Analysis, Linear Algebra, Abstract Algebra, Multivariable Calcu
 > **Statistics**  
 Regression Analysis, Statistical Inference, Time-Series Analysis, Multivariate Analysis, Analysis of Variance, Statistical learning Theory (ML).
 
-> **Computers** 
+> **Computers**   
 Algorithms, C++, JAVA, R, Automata theory, MATLAB
 
