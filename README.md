@@ -73,8 +73,8 @@ _Organized by by Databricks Bangalore_
 Real and Complex Analysis, Linear Algebra, Abstract Algebra, Multivariable Calculus, Number Theory, Graph Theory, Measure theory, Stochastic Processes, Markov Chains.
 
 > **Statistics**  
-Regression Analysis, Statistical Inference, Time-Series Analysis, Multivariate Analysis, Analysis of Variance, Statistical learning Theory (ML).
+Hypothesis testing, Bayesian Inference, Statistical Inference, Regression Analysis, Large Sample theory, Time-Series Analysis, Multivariate Analysis, Analysis of Variance, Statistical learning Theory (ML).
 
 > **Computers**   
-Algorithms, C++, JAVA, R, Automata theory, MATLAB
+Data Structures and Algorithms, C++, JAVA, R, Automata theory, MATLAB
 
