@@ -22,6 +22,9 @@
 
 ## Experience
 
+> **Dezerv Investments** `Apr'24-Current`  
+> _Data Science_
+
 > **Niro Finance** `Jan'24-Apr'24`  
 > _AVP Data Science_
 
