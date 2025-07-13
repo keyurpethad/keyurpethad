@@ -14,6 +14,9 @@
 
 ## Education
 
+> **Financial Risk Manager**   
+> _Level 1_ `2024`
+
 > **Indian Statistical Institute Bangalore** `2017-2019`  
 > _Master of Mathematics_
 
